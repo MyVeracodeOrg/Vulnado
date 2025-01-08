@@ -26,3 +26,4 @@ The docker network created by `docker-compose` maps pretty well to a multi-tier 
 
 Change 1
 Change 2
+Change 3
